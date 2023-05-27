@@ -1,0 +1,15 @@
+{
+    "name": "leticia/api-filmes",
+    "type": "cinema",
+    "autoload": {
+        "psr-4": {
+            "Leticia\\ApiFilmes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "leticia"
+        }
+    ],
+    "require": {}
+}
